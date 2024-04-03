@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Menambahkan data buku contoh
+        // Menambahkan data buku
         getBookList().add("Buku 1: Kancil Kecil - Penulis: Yanto - Seri: 12345");
         getBookList().add("Buku 2: Kancil Besar - Penulis: Adhi - Seri: 54321");
 
